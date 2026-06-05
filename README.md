@@ -1,11 +1,4 @@
 # Econometría Aplicada con R
-
-**SECIHTI — Universidad de Guadalajara, CUCEA**  
-Doctorado en Estudios Económicos  
-Dr. Javier Emmanuel Anguiano Pita
-
----
-
 ## Descripción
 
 Este repositorio contiene el material del curso *Econometría Aplicada con R*, un taller práctico de 11 sesiones (33 horas) diseñado para estudiantes de doctorado. El curso cubre desde la introducción al lenguaje R hasta modelos avanzados de variable dependiente discreta y limitada, con énfasis en la estimación, el diagnóstico y la interpretación de resultados usando datos reales de fuentes mexicanas e internacionales.
@@ -18,8 +11,8 @@ Cada sesión incluye una exposición teórica breve (20–30 min), programación
 
 ```
 econometria-aplicada-r/
-├── datos/                  # Datasets utilizados en cada sesión
-├── sesiones/
+├── Datos/                  # Datasets utilizados en cada sesión
+├── Diapositivas/
 │   ├── sesion_01/          # Introducción a R y RStudio
 │   ├── sesion_02/          # OLS, supuestos y capacidad predictiva
 │   ├── sesion_03/          # Selección de modelos y variables dicotómicas
@@ -31,7 +24,7 @@ econometria-aplicada-r/
 │   ├── sesion_09/          # Sistemas de ecuaciones
 │   ├── sesion_10/          # Variable dependiente discreta
 │   └── sesion_11/          # Variable dependiente limitada y cierre
-├── proyecto_final/         # Instrucciones y plantilla del proyecto final
+├── Código/         # Scripts visto en clase y funciones
 └── README.md
 ```
 
@@ -47,7 +40,7 @@ econometria-aplicada-r/
 ### Bloque I — Regresión Lineal Clásica
 | Sesión | Tema | Dataset |
 |--------|------|---------|
-| 2 | OLS, supuestos de Gauss-Markov, `lm()`, medidas de ajuste y presentación de resultados | ENOE — Salarios y escolaridad |
+| 2 | OLS, supuestos de Gauss-Markov, medidas de bondad de ajuste y presentación de resultados | ENOE — Salarios y escolaridad |
 | 3 | Prueba F, variables dummy, interacciones y análisis de brechas salariales | ENOE — Brecha salarial por género |
 
 ### Bloque II — Incumplimiento de Supuestos y Extensiones
