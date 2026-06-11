@@ -1,4 +1,6 @@
 # Econometría Aplicada con R
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emmanuel-anguianopita/Econometria-Aplicada-con-R/HEAD)
+
 ## Descripción
 
 Este repositorio contiene el material del curso *Econometría Aplicada con R*, un taller práctico de 11 sesiones (33 horas) diseñado para estudiantes de doctorado. El curso cubre desde la introducción al lenguaje R hasta modelos avanzados de variable dependiente discreta y limitada, con énfasis en la estimación, el diagnóstico y la interpretación de resultados usando datos reales de fuentes mexicanas e internacionales.
