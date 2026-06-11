@@ -1,5 +1,5 @@
 # Econometría Aplicada con R
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emmanuel-anguianopita/Econometria-Aplicada-con-R/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emmanuel-anguianopita/Econometria-Aplicada-con-R/HEAD?urlpath=rstudio)
 
 ## Descripción
 
