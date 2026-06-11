@@ -1,0 +1,12 @@
+install.packages(c(
+  "tidyverse",
+  "wooldridge",
+  "lmtest",
+  "ARDL",
+  "dynlm",
+  "broom",
+  "knitr",
+  "kableExtra",
+  "tseries",
+  "readxl"
+))
