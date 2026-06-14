@@ -35,6 +35,7 @@ econometria-aplicada-r/
 ## Programa de sesiones
 
 ### Sesión 1 — Introducción a R
+
 | Bloque | Tema | Dataset |
 |--------|------|---------|
 | 1 | Introducción a R y buenas prácticas| [IMDB.csv](https://drive.google.com/file/d/1BCtE69SvyEYRsB_jxw-qBgWwqfWx_SbK/view?usp=drive_link) |
@@ -44,6 +45,7 @@ econometria-aplicada-r/
 | 5 | Librerías y paquetes en R | - | 
 
 ### Sesión II — Modelo de regresión lineal múltiple
+
 | Bloque | Tema | Dataset |
 |--------|------|---------|
 | 1 |¿Qué es una regresión lineal? | - |
@@ -60,6 +62,7 @@ econometria-aplicada-r/
 
 
 ### Sesión 4 — Series de Tiempo
+
 | Bloque | Tema | Dataset |
 |--------|------|---------|
 | 1      | Autocorrelación en series de tiempo | [Datos](https://docs.google.com/spreadsheets/d/12g5O7KNWn95K_skAIzQgKh4JY5SzV0tu/edit?usp=drive_link&ouid=104575177132183230923&rtpof=true&sd=true) |
@@ -71,6 +74,7 @@ econometria-aplicada-r/
 | 5      | Causalidad de Granger | [Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link) | 
 
 ### Bloque IV — Sistemas de ecuaciones 
+
 | Sesión | Tema | Dataset |
 |--------|------|---------|
 
