@@ -82,10 +82,10 @@ Las presentaciones están disponibles en línea — no requieren descarga:
 
 | Sesión | Tema | Link |
 |--------|------|------|
-| 01 | Introducción a R y RStudio | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_01.html) |
-| 02 | Modelo de regresión lineal múltiple | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_02.html) |
-| 03 | Modelos no lineales y dinámicos | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_03.html) |
-| 04 | Introducción a series de tiempo | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_04.html) |
+| 01 | Introducción a R y RStudio | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/01-Intro R-NA.html) |
+| 02 | Modelo de regresión lineal múltiple | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/02-Regresion_Lineal.html) |
+| 03 | Modelos no lineales y dinámicos | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/03-Modelos no lineales.html) |
+| 04 | Introducción a series de tiempo | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/04-Introducción series de tiempo.html) |
 
 ---
 
