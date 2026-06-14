@@ -34,40 +34,58 @@ econometria-aplicada-r/
 
 ## Programa de sesiones
 
-### Bloque 0 — Introducción a R
-| Sesión | Tema | Dataset |
+### Sesión 1 — Introducción a R
+| Bloque | Tema | Dataset |
 |--------|------|---------|
-| 1 | Introducción a R y RStudio: objetos, dplyr, ggplot2, importación y buenas prácticas | INEGI (datos abiertos) |
+| 1 | Introducción a R y buenas prácticas| [IMDB.csv](https://drive.google.com/file/d/1BCtE69SvyEYRsB_jxw-qBgWwqfWx_SbK/view?usp=drive_link) |
+| 2 | Anatomía de los objetos en R  | - |
+| 3 | Programación funcional |- |
+| 4 | Flujo de trabajo para el análisis de datos | - |
+| 5 | Librerías y paquetes en R | - | 
 
-### Bloque I — Regresión Lineal Clásica
-| Sesión | Tema | Dataset |
+### Sesión II — Modelo de regresión lineal múltiple
+| Bloque | Tema | Dataset |
 |--------|------|---------|
-| 2 | OLS, supuestos de Gauss-Markov, medidas de bondad de ajuste y presentación de resultados | ENOE — Salarios y escolaridad |
-| 3 | Prueba F, variables dummy, interacciones y análisis de brechas salariales | ENOE — Brecha salarial por género |
+| 1 |¿Qué es una regresión lineal? | - |
+| 2 |  Estimacion e interpretación del MRLM| `Wooldridge - Wage1` |
+| 3 | Diagnóstico y corrección de las violaciones a los supuestos de MCO | `Wooldridge - Wage1`| 
 
-### Bloque II — Incumplimiento de Supuestos y Extensiones
-| Sesión | Tema | Dataset |
-|--------|------|---------|
-| 4 | Heterocedasticidad, autocorrelación y errores estándar robustos | INEGI — PIB estatal |
-| 5 | Modelos no lineales, transformaciones logarítmicas y modelos ADL | Banxico — Consumo e ingreso |
+## Sesión III — Modelos no lineales y dinámicos 
 
-### Bloque III — Series de Tiempo
-| Sesión | Tema | Dataset |
+| Bloque | Tema | Dataset | 
 |--------|------|---------|
-| 6 | Estacionariedad, ACF/PACF, pruebas ADF y Phillips-Perron | Banxico — Tipo de cambio MXN/USD |
-| 7 | Cointegración, causalidad de Granger y procedimiento de Toda-Yamamoto | Banxico — Inflación y tipo de cambio |
+| 1      | Repaso de variables dicotómicas | `Wooldridge - Wage1` | 
+| 2      | Formas funcionales | - | 
+| 3      | Modelos dinámicos (ARDL) | [`Anguiano Pita (2026)`](https://docs.google.com/spreadsheets/d/1U-lIIFPHEggJ2ULVm-Rd3izdIc8e884h/edit?usp=drive_link&ouid=104575177132183230923&rtpof=true&sd=true) | 
 
-### Bloque IV — Datos en Panel y Sistemas de Ecuaciones
-| Sesión | Tema | Dataset |
-|--------|------|---------|
-| 8 | Efectos fijos, efectos aleatorios, prueba de Hausman y errores agrupados | Dataset Grunfeld (`plm`) |
-| 9 | Sistemas SUR, ecuaciones simultáneas e identificación con 2SLS | ENOE / Dataset Klein |
 
-### Bloque V — Variable Dependiente Discreta y Limitada
+### Sesión 4 — Series de Tiempo
+| Bloque | Tema | Dataset |
+|--------|------|---------|
+| 1      | Autocorrelación en series de tiempo | [Datos](https://docs.google.com/spreadsheets/d/12g5O7KNWn95K_skAIzQgKh4JY5SzV0tu/edit?usp=drive_link&ouid=104575177132183230923&rtpof=true&sd=true) |
+| 2      | Estacionalidad     | [Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link)| 
+| 2.1    | Estacionalidad con IMAI-México | [Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link) |  
+| 3      | Regresiones espurias           |[Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link)|
+| 4      | Estacionariedad y raíces unitarias | 
+| 4.1    | Pruebas de raíces unitarias ADF y KPSS | [Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link) |
+| 5      | Causalidad de Granger | [Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link) | 
+
+### Bloque IV — Sistemas de ecuaciones 
 | Sesión | Tema | Dataset |
 |--------|------|---------|
-| 10 | MPL, Logit, Probit y efectos marginales | ENOE / Dataset `mroz` |
-| 11 | Modelo Tobit, datos censurados y truncados, cierre del curso | ENIGH — Gasto en bienes no esenciales |
+
+
+--- 
+## Diapositivas
+
+Las presentaciones están disponibles en línea — no requieren descarga:
+
+| Sesión | Tema | Link |
+|--------|------|------|
+| 01 | Introducción a R y RStudio | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_01.html) |
+| 02 | Modelo de regresión lineal múltiple | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_02.html) |
+| 03 | Modelos no lineales y dinámicos | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_03.html) |
+| 04 | Introducción a series de tiempo | [Ver presentación](https://emmanuel-anguianopita.github.io/Econometria-Aplicada-con-R/Diapositivas/sesion_04.html) |
 
 ---
 
