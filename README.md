@@ -50,7 +50,7 @@ Cada sesión incluye una exposición teórica breve (20–30 min), programación
 | 4.1    | Pruebas de raíces unitarias ADF y KPSS | [Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link) |
 | 5      | Causalidad de Granger | [Datos](https://drive.google.com/file/d/1RFgApomYnQ2DKFOgZGdn21dmROIhwGgl/view?usp=drive_link) | 
 
-### Bloque IV — Sistemas de ecuaciones 
+### Sesión 5 — Sistemas de ecuaciones 
 
 | Sesión | Tema | Dataset |
 |--------|------|---------|
