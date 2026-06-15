@@ -3,32 +3,9 @@
 
 ## Descripción
 
-Este repositorio contiene el material del curso *Econometría Aplicada con R*, un taller práctico de 11 sesiones (33 horas) diseñado para estudiantes de doctorado. El curso cubre desde la introducción al lenguaje R hasta modelos avanzados de variable dependiente discreta y limitada, con énfasis en la estimación, el diagnóstico y la interpretación de resultados usando datos reales de fuentes mexicanas e internacionales.
+Este repositorio contiene el material del curso *Econometría Aplicada con R*, un taller práctico de 10 sesiones (~30 horas) diseñado para estudiantes de posgrado. El curso cubre desde la introducción al lenguaje R hasta modelos avanzados de variable dependiente discreta y limitada, con énfasis en la estimación, el diagnóstico y la interpretación de resultados usando datos reales de fuentes mexicanas e internacionales.
 
 Cada sesión incluye una exposición teórica breve (20–30 min), programación en vivo en R (2 horas) y discusión de resultados (30 min).
-
----
-
-## Estructura del repositorio
-
-```
-econometria-aplicada-r/
-├── Datos/                  # Datasets utilizados en cada sesión
-├── Diapositivas/
-│   ├── sesion_01/          # Introducción a R y RStudio
-│   ├── sesion_02/          # OLS, supuestos y capacidad predictiva
-│   ├── sesion_03/          # Selección de modelos y variables dicotómicas
-│   ├── sesion_04/          # Problemas clásicos del modelo MCO
-│   ├── sesion_05/          # Modelos no lineales y dinámicos
-│   ├── sesion_06/          # Introducción a series de tiempo
-│   ├── sesion_07/          # Causalidad e inferencia en series de tiempo
-│   ├── sesion_08/          # Datos en panel
-│   ├── sesion_09/          # Sistemas de ecuaciones
-│   ├── sesion_10/          # Variable dependiente discreta
-│   └── sesion_11/          # Variable dependiente limitada y cierre
-├── Código/         # Scripts visto en clase y funciones
-└── README.md
-```
 
 ---
 
@@ -138,8 +115,7 @@ install.packages(c(
 | Componente | Ponderación | Entrega |
 |------------|-------------|---------|
 | Participación activa en sesiones prácticas | 20% | Continua |
-| Ejercicios de programación por bloque (5 tareas) | 40% | Semanal |
-| Proyecto final: corrección de trabajos de investigación propios | 40% | Sesión 11 |
+| Ejercicios de programación por semana (4-5 ejercicios prácticos) | 80% | Semanal |
 
 ---
 
